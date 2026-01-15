@@ -1,19 +1,39 @@
 # ANALYTICAL PLAN
 
-## Current Phase: 0. Setup
+## Current Phase: [To be defined]
 
-## 1. Logical Framework
+## 1. Goal
 
-* [Step-by-step causal logic or algorithm design]
+Exportify tool
 
-## 2. Methodology & Variables
+## 2. Team
 
-* [List of variables, sources, and methods]
+* **Lead**: [To be defined]
 
-## 3. Anticipated Failure Points
+## 3. Deliverables
 
-* [Identify 3 risks: e.g., Data sparsity, false causality, API rate limits]
+| # | Deliverable | Target Date | Notes |
+|---|-------------|-------------|-------|
+| D1 | [To be defined] | | |
 
-## 4. Verification Strategy
+## 4. Key Dates & Timeline
 
-* [Define how we prove the output is correct]
+| Date | Event | Type |
+|------|-------|------|
+| | [To be defined] | |
+
+## 5. Logical Framework
+
+[To be defined]
+
+## 6. Methodology & Variables
+
+[To be defined]
+
+## 7. Anticipated Failure Points
+
+* [To be defined]
+
+## 8. Verification Strategy
+
+* [To be defined]
